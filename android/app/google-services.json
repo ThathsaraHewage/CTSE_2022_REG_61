@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57618007988",
+    "project_id": "mysalonstaff",
+    "storage_bucket": "mysalonstaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57618007988:android:9735467c1d8b01187994e1",
+        "android_client_info": {
+          "package_name": "com.example.baber_app_staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57618007988-bqp1php7318i78vghamufnp2em509gp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0qfA4ijqjiFapNnewcianH51nkHRJnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57618007988-bqp1php7318i78vghamufnp2em509gp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
